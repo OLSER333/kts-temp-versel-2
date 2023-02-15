@@ -1,0 +1,1 @@
+export {Advantages as AdvantagesSection} from './advantages'
